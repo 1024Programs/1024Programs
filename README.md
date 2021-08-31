@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1024Bytes#1024
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user1024bytes)](https://github.com/user1024bytes/github-readme-stats&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user1024bytes&theme=github_dark)](https://github.com/user1024bytes/github-readme-stats)
 
 ![user1024bytes's GitHub stats](https://github-readme-stats.vercel.app/api?username=user1024bytes&theme=github_dark&show_icons=true)
