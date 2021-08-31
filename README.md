@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... I have google
 - 💬 Ask me about ... you are not allowed to do that
 - ⚡ Fun fact: ... there is no fun fact here
-- 📫 How to reach me: [1024Bytes#1024] | [Youtube](https://www.youtube.com/channel/UCb5McwosG35R03nAzNRJEDw) | [user1024bytes@gmail.com]
+- 📫 How to reach me: [1024Bytes#1024](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Youtube](https://www.youtube.com/channel/UCb5McwosG35R03nAzNRJEDw) | [user1024bytes@gmail.com]()
 
 ![user1024bytes's GitHub stats](https://github-readme-stats.vercel.app/api?username=user1024bytes&theme=github_dark&show_icons=true)
 
