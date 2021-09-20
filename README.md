@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 💻 I’m currently learning ... Java & Cryptology
 
 Discord-> [1024Bytes#1173](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-YouTube Channel-> [YouTube Channel](https://www.youtube.com/channel/UCb5McwosG35R03nAzNRJEDw)
+YouTube Channel-> [YouTube Channel](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ![user1024bytes's GitHub stats](https://github-readme-stats.vercel.app/api?username=user1024bytes&theme=github_dark&show_icons=true)
 
