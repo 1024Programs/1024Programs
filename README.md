@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-💻 I’m currently learning ... Java & Cryptology
+💻 I’m currently learning ...
 
 Discord-> [1024Bytes#1173](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 YouTube Channel-> [YouTube Channel](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
